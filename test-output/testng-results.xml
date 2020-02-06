@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="16984" started-at="2020-02-06T14:49:47Z" finished-at="2020-02-06T14:50:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16984" started-at="2020-02-06T14:49:47Z" finished-at="2020-02-06T14:50:04Z">
+      <class name="testcases.HomePageTest">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.HomePageTest@482f8f11]" name="beforeMethod" is-config="true" duration-ms="10557" started-at="2020-02-06T20:19:47Z" finished-at="2020-02-06T20:19:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.HomePageTest.searchLaptop()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchLaptop()[pri:0, instance:testcases.HomePageTest@482f8f11]" name="searchLaptop" duration-ms="6403" started-at="2020-02-06T20:19:57Z" finished-at="2020-02-06T20:20:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLaptop -->
+        <test-method status="PASS" signature="afterMethod(java.lang.reflect.Method)[pri:0, instance:testcases.HomePageTest@482f8f11]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-02-06T20:20:04Z" finished-at="2020-02-06T20:20:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.HomePageTest.searchLaptop()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- TestSuite -->
+</testng-results>
